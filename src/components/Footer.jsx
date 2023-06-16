@@ -8,7 +8,7 @@ const Footer = () => (
 
       <div className='flex-1 flex flex-col justify-star mr-10'>
         <img src={logo} alt="Logo" className='w-[266px] h-[72px] object-contain' />
-        <p className={`${styles.paragraph} mt-4 max-w-[310px]`}>A new way to make the payments easy, reliable and secure.</p>
+        <p className={`${styles.paragraph} mt-4 max-w-[310px]`}>Uma nova forma de tornar os pagamentos fáceis, confiáveis e seguros.</p>
       </div>
 
       <div className='flex-[1.5] w-full flex flex-row justify-between flex-wrap md:mt-0 mt-10'>
